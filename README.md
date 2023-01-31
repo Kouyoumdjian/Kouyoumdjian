@@ -3,8 +3,9 @@
 - Atualmente atuo como Data Engineer no Banco Bradesco S.A👏
 
 <div>
-<img align="center" height="250em" src="src=https://media.tenor.com/sGtRK7e6IYoAAAAd/cyberpunk.gif">
+<img align="center" height="250em" src="https://media.tenor.com/sGtRK7e6IYoAAAAd/cyberpunk.gif%22%3E">
 </div>
+
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Kouyoumdjian&show_icons=true&theme=dark&count_private=true)
 
